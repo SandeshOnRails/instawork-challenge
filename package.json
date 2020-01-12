@@ -1,0 +1,12 @@
+{
+  "name": "instawork",
+  "version": "1.0.0",
+  "description": "Coding challenge from instawork",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Sandesh",
+  "license": "ISC",
+  "dependencies": {}
+}
